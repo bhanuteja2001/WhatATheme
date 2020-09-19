@@ -13,3 +13,13 @@
   description: >-
     This is a simple web scraper aimed to  scrap job results from Indeed Job
     Portal based on the search query entered by the user.
+- name: Admission Prediction
+  image: 'https://www.stoodnt.com/blog/wp-content/uploads/2019/12/how-to-get-into-ivy-league-colleges-ms.jpg'
+  link: 'https://github.com/bhanuteja2001/Admission-Precision'
+  description: >-
+    This is a simple ML based project aimed to predict the chances of admission based on marks score.
+- name: Flask selenium Image Scrapper
+  image: 'https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Google-Image-Search.jpg'
+  link: 'https://github.com/bhanuteja2001/flask-selenium-image-scrapper'
+  description: >-
+    This is an image scrapper works with selenium, Scrapes images from Google and stores in the local computer.
